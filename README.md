@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Trupti! 👋
 
-<!--
-**truptiverse/truptiverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Aspiring Developer | Learning, Building & Growing
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Student and aspiring developer
+- 💻 Currently learning programming and development
+- 🚀 Exploring new technologies and building projects
+- 🌱 Always curious to learn something new
+- ✨ Goal: Keep learning and create meaningful projects
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- Java
+- Python
+- Data Analytics with AI
+- SQL
+- PostgreSQL
+- Git & GitHub
+
+## 📌 Currently Learning
+
+- Web Development
+- Programming
+- AIML
+- Data Analytics
+- Git & GitHub
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/trupti-rangat-15924132a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+⭐ Thanks for visiting my profile!
